@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'style.css') }}">
+    <title>Integraçao</title>
+</head>
+<body>
+    <form action="/criar" method="post">
+        <h1 class="titulo">Coordenadas</h1>
+        
+        <label for="x">Coordenada X
+            <input type="number" name="x" id="x" required>
+        </label>
+        <label for="y">Coordenada Y
+            <input type="number" name="y" id="y" required>
+        </label>
+        <label for="z">Coordenada Z
+            <input type="number" name="z" id="z" required>
+        </label>
+        <br>
+        <br>
+        <button type="submit">Enviar Coordenadas</button>
+    </form>
+    <br>
+    <div class="tabela">
+        <table>
+            <thead>
+                <tr>
+                    <th>Coordenada ID</th>
+                    <th>Coordenada X</th>
+                    <th>Coordenada Y</th>
+                    <th>Coordenada Z</th>
+                </tr>
+                </tr>
+            </thead>
+            <tbody>
+                {% for coordenada in valores %}
+                <tr>
+                    <td>{{ coordenada.id }}</td>
+                    <td>{{ coordenada.x }}</td>
+                    <td>{{ coordenada.y }}</td>
+                    <td>{{ coordenada.z }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <button type="reset">Reset Table</button>
+</body>
+</html>
