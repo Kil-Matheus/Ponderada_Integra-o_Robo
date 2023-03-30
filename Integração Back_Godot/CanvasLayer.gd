@@ -11,4 +11,4 @@ func _on_request_completed(result, response_code, headers, body):
 
 
 func _on_Timer_timeout():
- $HTTPRequest.request("http://10.254.17.145:3000/criar")
+ $HTTPRequest.request("http://127.0.0.1:3000/criar")
