@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename = 'style.css') }}">
     <title>Integraçao</title>
 </head>
+
 <body>
     <!-- Formulário onde esrá inserido todas as coordenadas indicadas para o Robô -->
     <form action="/criar" method="post">
@@ -31,7 +32,6 @@
         <table>
             <thead>
                 <tr>
-                    <th>Coordenada ID</th>
                     <th>Coordenada X</th>
                     <th>Coordenada Y</th>
                     <th>Coordenada Z</th>
@@ -41,7 +41,6 @@
             <tbody>
                 {% for coordenada in valores %}
                 <tr>
-                    <td>{{ coordenada.id }}</td>
                     <td>{{ coordenada.x }}</td>
                     <td>{{ coordenada.y }}</td>
                     <td>{{ coordenada.z }}</td>
@@ -50,6 +49,8 @@
             </tbody>
         </table>
     </div>
-    <button type="reset">Reset Table</button>
+    <form action="/deletar" method="post">
+        <button type="reset">Reset Table</button>
+</form>
 </body>
 </html>
