@@ -81,4 +81,4 @@ A integração é a união de várias partes que foram desenvolvidas separadamen
 ## Backend
 
 Para a construção do backend, que é o código de base que contem todas as regras de negócio da nossa aplicação. Foi utiliado um Framework Web chamado Flask, que possui várias ferramentas e funcionalidades que facilitam no desenvolviemton de aplicações, onde utiliza a linguagem de programação Python para desenvolvimento.
-<center> ![Backend](Podenrada_Integra-o_Robo/img/backend.svg) </center>
+<center> ![Backend](Ponderada_Integra-o_Robo/img/backend.svg) </center>
