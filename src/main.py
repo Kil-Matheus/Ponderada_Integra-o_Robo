@@ -45,6 +45,7 @@ def numeros():
         valor_coordenada.append(valores)
         return redirect("/")
 
+#Ele está pegando a utima posição da array (linha) do meu banco de dados e retornando para a aplicação.
     db = sqlite3.connect("data/banco.db")
     cursor = db.cursor()
     cursor.execute("SELECT * FROM Coordenadas ORDER BY rowid DESC LIMIT 1")
