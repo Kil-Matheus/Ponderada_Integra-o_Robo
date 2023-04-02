@@ -51,19 +51,22 @@ Segundo três documentos entregues pelo professor de programação Murilo Zanini
 
 Além disso, os documentos mostram o peso atribuído a cada etapa do processo, para cada realização relacionada ao respectivo tópico.
 
-- <b>Backend</b>: (Até 1.0 Ponto) - Construção das rotas necessárias da API proposta.
-(Até 0.5 Ponto) - Banco de dados para armazenar as informações do sistema.
-(Até 1.5 Ponto) - Implementação correta do código em Python de acordo com as diretrizes de formatação e com bom uso de estruturas de dados e algoritmos.
-(Até 1.0 Ponto) - Documentação do sistema proposto.
+<b>Backend</b>:
+- (Até 1.0 Ponto) - Construção das rotas necessárias da API proposta.
+- (Até 0.5 Ponto) - Banco de dados para armazenar as informações do sistema.
+- (Até 1.5 Ponto) - Implementação correta do código em Python de acordo com as diretrizes de formatação e com bom uso de estruturas de dados e algoritmos.
+- (Até 1.0 Ponto) - Documentação do sistema proposto.
 
-- <b>Frontend</b>: (Até 0.5 Ponto) - Construção de uma experiência que possibilite o usuário interagir com o sistema de forma intuitiva e responsiva.
-(Até 0.5 Ponto) - Utilização correta da API desenvolvida.
-(Até 1.0 Ponto) - Funcionamento correto do sistema proposto.
-(Até 1.0 Ponto) - Documentação do sistema proposto.
+<b>Frontend</b>: 
+- (Até 0.5 Ponto) - Construção de uma experiência que possibilite o usuário interagir com o sistema de forma intuitiva e responsiva.
+- (Até 0.5 Ponto) - Utilização correta da API desenvolvida.
+- (Até 1.0 Ponto) - Funcionamento correto do sistema proposto.
+- (Até 1.0 Ponto) - Documentação do sistema proposto.
 
-- <b>Simulação</b>: (Até 1.5 Ponto) - Implementação da simulação da cadeia cinemática do robô.
-(Até 0.5 Ponto) - Utilização correta da API desenvolvida.
-(Até 1.0 Ponto) - Documentação do sistema proposto.
+<b>Simulação</b>:
+- (Até 1.5 Ponto) - Implementação da simulação da cadeia cinemática do robô.
+- (Até 0.5 Ponto) - Utilização correta da API desenvolvida.
+- (Até 1.0 Ponto) - Documentação do sistema proposto.
 
 Esse exercício ele vale de 0 a 100 em cada tópico, e todos possuem um valor de pontos, que somados geram um total de 10, o que significa que o peso dessa atividade na nota final do aluno é muito significativo. A fim de comparação, uma atividade ponderada valendo de 0 a 100, possui um valor de pontos entre 1 e 2.
 
