@@ -79,7 +79,7 @@ A integração é a união de várias partes que foram desenvolvidas separadamen
 Para a construção do backend, que é o código de base que contem todas as regras de negócio da nossa aplicação, é o principal responsável por fazer a comunicação entre as outras plataformas. Foi utiliado um Framework Web chamado Flask, que possui várias ferramentas e funcionalidades que facilitam no desenvolvimenton de aplicações, onde utiliza a linguagem de programação Python para desenvolvimento. Tambem foi utilizado o Banco de Dados SQLite, para armazenar todos os dados que a aplicação vai gerar.
 
 A imagem a baixo mostra o resultado o desenvolvimento do Backend com as regras de negócio, já comentado para melhor leitura e interpretação das funcionalidades. (API's).
-Vale resaltar ainda que o funcionamento de toda a aplicação é feita localmente (LocalHost) onde não é possível acessa-lá sem a possibilidade de conseguir acessar e baixar os arquivos disponíveis no GitHub. (Link está no tópico 'Autores')
+Vale resaltar ainda que o funcionamento de toda a aplicação é feita localmente (LocalHost) onde não é possível acessa-lá sem a possibilidade de conseguir acessar e baixar os arquivos disponíveis no GitHub. (Link em referências.)
 
 <center>
 <img  src="img\backend_main.svg"  alt="Backend"  />
