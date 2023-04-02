@@ -33,7 +33,7 @@ Concepção de integração de aplicações
 
 # Autores
 
-Kil Matheus Gomes Teixeira - (https://github.com/Kil-Matheus/Ponderada_Integra-o_Robo.git)
+Kil Matheus Gomes Teixeira
 
 # Visão Geral do Projeto
 
@@ -204,3 +204,27 @@ E depois de inputamos os valores como mostra na Figura 12 e enviarmos, podemos v
 </center>
 
 **<font  size=2> Figura 14 — Movimento no espaço X, Y, e Z do Objeto Importado, Autoria Própria </font>**
+
+## Conclusão
+
+Podemos concluir que a Tecnologia de Automação (TA) e a Tecnologia de Informação (TI) podem ser grandes aliadas no aumento de produção de sistemas automatizados, onde a integração de diferentes plataformas podem trazer grandes avanços tecnológicos. Nesse exercício colocamos em prática nosso conhecimento em programação para junta um site em um jogo, mas no mundo real, podemos ter infintas aplicações em negócios e tambem na industria.
+
+## Referências
+
+TEIXEIRA. Kil Matheus Gomes. Robô Digital. Repositório Github. Disponível em: [https://github.com/Kil-Matheus/Ponderada_Integra-o_Robo.git](https://github.com/Kil-Matheus/Ponderada_Integra-o_Robo.git). Acesso em: 02 abr. 2023.
+
+Micheal-Holloway, SKETCHFAB. Little Robot Ball. Modelagem 3D. Disponível em: [https://sketchfab.com/3d-models/little-robot-ball-bd1792fd94fc4e82a043b8724bad8f75](https://sketchfab.com/3d-models/little-robot-ball-bd1792fd94fc4e82a043b8724bad8f75). Acesso em: 02 abr. 2023.
+
+CARVALHO, Murilo Zanini de. Projeto Robô - Backend. Documento Google. Disponível em: [https://docs.google.com/document/d/1FuFRJGZY-xLP07Ebe_azcmIZwDicFkMG9Db_tNuP658/edit](https://docs.google.com/document/d/1FuFRJGZY-xLP07Ebe_azcmIZwDicFkMG9Db_tNuP658/edit). Acesso em: 02 abr. 2023.
+
+CARVALHO, Murilo Zanini de. Projeto Robô - Frontend. Documento Google. Disponível em: [https://docs.google.com/document/d/1FuFRJGZY-xLP07Ebe_azcmIZwDicFkMG9Db_tNuP658/edit](https://docs.google.com/document/d/1FuFRJGZY-xLP07Ebe_azcmIZwDicFkMG9Db_tNuP658/edit). Acesso em: 02 abr. 2023.
+
+CARVALHO, Murilo Zanini de. Projeto Robô - Simulação. Documento Google. Disponível em: [https://docs.google.com/document/d/1FuFRJGZY-xLP07Ebe_azcmIZwDicFkMG9Db_tNuP658/edit](https://docs.google.com/document/d/1FuFRJGZY-xLP07Ebe_azcmIZwDicFkMG9Db_tNuP658/edit). Acesso em: 02 abr. 2023.
+
+# Agradecimentos
+
+Agradecimentos especiais a:
+
+Murilo Zanini de Carvalho por suas brilhantes instruções de programação, especialmente em relação ao servidor Backend e temas correlatos. Além disso, agradeço pela sua didática excepcional, que inspirou e impulsionou a alcançar resultados significativos nesse projeto.
+
+João Vitor Oliveira Rodrigues por sua valiosa contribuição no desenvolvimento do ambiente de desenvolvimento do motor gráfico GODOT.
