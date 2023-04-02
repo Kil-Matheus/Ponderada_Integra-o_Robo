@@ -1,4 +1,3 @@
-# Ponderada_Integra-o_Robo
 <table>
 <tr>
 <td>
@@ -80,8 +79,37 @@ A integração é a união de várias partes que foram desenvolvidas separadamen
 
 ## Backend
 
-Para a construção do backend, que é o código de base que contem todas as regras de negócio da nossa aplicação. Foi utiliado um Framework Web chamado Flask, que possui várias ferramentas e funcionalidades que facilitam no desenvolviemton de aplicações, onde utiliza a linguagem de programação Python para desenvolvimento.
+Para a construção do backend, que é o código de base que contem todas as regras de negócio da nossa aplicação, é o princiapal responsável por fazer a comunicação entre as outras plataformas. Foi utiliado um Framework Web chamado Flask, que possui várias ferramentas e funcionalidades que facilitam no desenvolvimenton de aplicações, onde utiliza a linguagem de programação Python para desenvolvimento.
+
+A imagem a baixo mostra o resultado o desenvolvimento do Backend com as regras de negócio, já comentado para melhor leitura e interpretação das funcionalidades. (API's).
 
 <center>
-<img src="img\Backend.png" alt="Backend" />
+<img  src="img\backend_main.svg"  alt="Backend"  />
 </center>
+
+**<font  size=2> Figura 1 — Backend construido em Python utilizando Flask (main.py), Autoria Própria </font>**
+
+<center>
+<img  src="img\backend_receber.svg"  alt="Backend"  />
+</center>
+
+**<font  size=2> Figura 2 — Uma classe que o código principal utiliza (receber.py), Autoria Própria </font>**
+
+## Frontend
+
+Para a construção do Frontend, foi utilizado a linguagem HTLM para criar a estrutura da página e CSS para estilizar o mesmo. São resposáveis pela parte visual web do projeto que, por meio de interação direta do usuário, os valores que ele colocar na página, serão enviados via Backend e executados. 
+
+<center>
+<img  src="img\html.svg"  alt="Frontend-HTML"  />
+</center>
+
+**<font  size=2> Figura 3 — Estrutura principal da página (index.html), Autoria Própria </font>**
+
+<center>
+<img  src="img\css.svg"  alt="Frontend-CSS"  />
+</center>
+
+**<font  size=2> Figura 4 — Estilização da página princiapal (style.css), Autoria Própria </font>**
+
+# Godot
+
