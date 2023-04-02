@@ -224,4 +224,4 @@ Agradecimentos especiais a:
 
 Murilo Zanini de Carvalho por suas brilhantes instruções de programação, especialmente em relação ao servidor Backend e temas correlatos. Além disso, agradeço pela sua didática excepcional, que inspirou e impulsionou a alcançar resultados significativos nesse projeto.
 
-João Vitor Oliveira Rodrigues por sua valiosa contribuição no desenvolvimento do ambiente de desenvolvimento do motor gráfico GODOT.
+João Vitor Oliveira Rodrigues por sua valiosa contribuição no desenvolvimento do ambiente do motor gráfico GODOT.
